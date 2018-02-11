@@ -4,7 +4,7 @@
 
 2. Activate the virtual environment
 
-3. Install ```Flask-RESTful```, it should implicitly install Flask as well
+3. Install ```Flask-RESTful```, it should implicitly install ```Flask``` as well
 ```sh
 pip install Flask-RESTful
 ```
